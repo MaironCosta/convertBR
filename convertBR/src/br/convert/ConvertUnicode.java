@@ -19,25 +19,8 @@ import java.util.Map;
  * */
 @SuppressWarnings({"unused"})
 public final class ConvertUnicode extends ConverterCharacter {
-	
-/*	private static ConvertUnicode instance;
-	
-	private ConvertUnicode() {
-		// TODO Auto-generated constructor stub
-	}
-	
-	public static ConvertUnicode getInstance() {
-		
-		if (instance == null) {
-		
-			instance = new ConvertUnicode();
-			
-		}
-		
-		return instance;
-	}*/
-	
-	protected ConvertUnicode() {
+
+	public ConvertUnicode() {
 		// TODO Auto-generated constructor stub
 	}
 

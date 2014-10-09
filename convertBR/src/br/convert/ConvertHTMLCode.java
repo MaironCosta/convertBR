@@ -17,25 +17,7 @@ import org.apache.commons.lang.StringEscapeUtils;
  * */
 public final class ConvertHTMLCode extends ConverterCharacter {
 
-	/*	private static ConvertHTMLCode instance;
-
-	
-	private ConvertHTMLCode() {
-		// TODO Auto-generated constructor stub
-	}
-	
-	public static ConvertHTMLCode getInstance() {
-		
-		if (instance == null) {
-		
-			instance = new ConvertHTMLCode();
-			
-		}
-		
-		return instance;
-	}*/
-	
-	protected ConvertHTMLCode() {
+	public ConvertHTMLCode() {
 		// TODO Auto-generated constructor stub
 	}
 	
